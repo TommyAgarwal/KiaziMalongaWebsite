@@ -1,6 +1,7 @@
 {
   "projects": {
-    "init": "kiazimalongawebsite"
+    "init": "kiazimalongawebsite",
+    "default": "kiazimalongawebsite"
   },
   "targets": {},
   "etags": {}
