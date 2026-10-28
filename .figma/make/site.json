@@ -1,0 +1,21 @@
+{
+  "title": "KIAZI MALONGA",
+  "description": "Kiazi Malonga is a Congolese American musician, recording artist, cultural educator, and paternal advocate dedicated to preserving and innovating Central African musical traditions.",
+  "language": "EN",
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "openGraph": {
+    "image": "/.figma/make/social-image.png"
+  },
+  "analytics": {
+    "googleAnalyticsId": "G-RNH3D8B0XZ"
+  },
+  "customScripts": {
+    "headStart": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-RNH3D8B0XZ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-RNH3D8B0XZ');\n</script>"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
